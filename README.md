@@ -28,24 +28,42 @@ Java, Ajax, Spring, MyBatis
 
 <h3> 2) 프로젝트 시연
  
- <h4> 회원가입 페이지<h4> 
-  -형식에 맞지 않거나 중복 값 입력 시 알림창이 뜨며 가입이 되지 않습니다.
+ <h4> @회원가입 페이지<h4> 
+  -형식에 맞지 않거나 중복 값 입력 시 알림창이 뜨며 가입이 되지 않습니다.<br>
   -비밀번호가 일치하지 않을 시 알림창과 함께 비밀번호가 초기화 됩니다.
  
 ![회원가입](https://user-images.githubusercontent.com/58322576/77389278-191d4900-6dd6-11ea-8872-56e2aa8d2c7d.PNG)
-
+ 
+ <h4> @메인 페이지 - 트레일러<h4> 
+  -화면 클릭시 재생이 되며, 영상 보러가기 클릭 시 해당 리뷰 페이지로 이동합니다.
+ 
 ![메인트레일러](https://user-images.githubusercontent.com/58322576/77389289-2803fb80-6dd6-11ea-8315-0d4259a0352b.PNG)
-
 ![메인트레일러 재생](https://user-images.githubusercontent.com/58322576/77389314-3520ea80-6dd6-11ea-8613-3f30cc17c2ac.PNG)
-
+ 
+ <h4> @메인 페이지 - 슬라이더<h4> 
+  -슬라이더 형태로 양옆으로 움직이며, 화면 크기에 따라 사진 개수와 검색창의 길이가 반응합니다.
+ 
 ![메인 슬라이더](https://user-images.githubusercontent.com/58322576/77389349-4cf86e80-6dd6-11ea-9df0-cbde53aa8b97.PNG)
-
-![찜 히스토리 없는경우](https://user-images.githubusercontent.com/58322576/77389369-597cc700-6dd6-11ea-83dd-b907118a0bf9.PNG)
-
-![드라마만](https://user-images.githubusercontent.com/58322576/77389357-51bd2280-6dd6-11ea-9255-93dfe9e22afd.PNG)
-
 ![반응형](https://user-images.githubusercontent.com/58322576/77389360-5386e600-6dd6-11ea-8189-9d694233b3f4.PNG)
 
+ <h4> @메인 페이지 - 정렬<h4> 
+  -원하는 항목으로 정렬이 가능합니다. 가능한 항목에는 영화, 드라마, 좋아요순, 조회수순이 있습니다.
+ 
+![드라마만](https://user-images.githubusercontent.com/58322576/77389357-51bd2280-6dd6-11ea-9255-93dfe9e22afd.PNG)
+ 
+  <h4> @메인 페이지 - 예외 처리<h4> 
+  -회원의 찜한 영상 또는 최근에 본 영상의 기록이 없으면, 해당 슬라이더와 사이드 바의 항목이 다른 것으로 대체 됩니다.
+ 
+![찜 히스토리 없는경우](https://user-images.githubusercontent.com/58322576/77389369-597cc700-6dd6-11ea-83dd-b907118a0bf9.PNG)
+
+  <h4> @메인 페이지 - 구독 리스트<h4> 
+  -구독리스트는 7개 이상인 경우 더 보기를 클릭하면 스크롤바와 함께 모든 리스트가 표시 됩니다.
+ 
+![구독리스트](https://user-images.githubusercontent.com/58322576/77389452-9b0d7200-6dd6-11ea-8a79-31ebcb2d69ea.PNG)
+
+ <h4> @메인 페이지 - 검색<h4>
+ -검색 결과가 없을 시 결과 없음을 표시합니다.
+ 
 ![프 검색](https://user-images.githubusercontent.com/58322576/77389379-600b3e80-6dd6-11ea-89b5-cb6355e39095.PNG)
 
-![구독리스트](https://user-images.githubusercontent.com/58322576/77389452-9b0d7200-6dd6-11ea-8a79-31ebcb2d69ea.PNG)
+
