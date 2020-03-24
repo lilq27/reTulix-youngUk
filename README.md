@@ -43,23 +43,23 @@ Java, Ajax, Spring, MyBatis
  <h4> @메인 페이지 - 슬라이더<h4> 
   -슬라이더 형태로 양옆으로 움직이며, 화면 크기에 따라 사진 개수와 검색창의 길이가 반응합니다.
  
-![메인 슬라이더](https://user-images.githubusercontent.com/58322576/77389349-4cf86e80-6dd6-11ea-9df0-cbde53aa8b97.PNG)
-![반응형](https://user-images.githubusercontent.com/58322576/77389360-5386e600-6dd6-11ea-8189-9d694233b3f4.PNG)
+![메인 슬라이더 ](https://user-images.githubusercontent.com/58322576/77453776-09841b80-6e3b-11ea-96ff-79392e17ba40.PNG)
+![반응형 합친거](https://user-images.githubusercontent.com/58322576/77453822-186ace00-6e3b-11ea-8309-b1e9b392c233.png)
 
  <h4> @메인 페이지 - 정렬<h4> 
   -원하는 항목으로 정렬이 가능합니다. 가능한 항목에는 영화, 드라마, 좋아요순, 조회수순이 있습니다.
  
-![드라마만](https://user-images.githubusercontent.com/58322576/77389357-51bd2280-6dd6-11ea-9255-93dfe9e22afd.PNG)
+![정렬하기1](https://user-images.githubusercontent.com/58322576/77453884-2fa9bb80-6e3b-11ea-97db-8d9396404fd1.PNG)
  
   <h4> @메인 페이지 - 예외 처리<h4> 
   -회원의 찜한 영상 또는 최근에 본 영상의 기록이 없으면, 해당 슬라이더와 사이드 바의 항목이 다른 것으로 대체 됩니다.
  
-![찜 히스토리 없는경우](https://user-images.githubusercontent.com/58322576/77389369-597cc700-6dd6-11ea-83dd-b907118a0bf9.PNG)
+![히스토리 합친거](https://user-images.githubusercontent.com/58322576/77454127-7697b100-6e3b-11ea-95bb-6da75c9abbbf.PNG)
 
   <h4> @메인 페이지 - 구독 리스트<h4> 
   -구독리스트는 7개 이상인 경우 더 보기를 클릭하면 스크롤바와 함께 모든 리스트가 표시 됩니다.
  
-![구독리스트](https://user-images.githubusercontent.com/58322576/77389452-9b0d7200-6dd6-11ea-8a79-31ebcb2d69ea.PNG)
+![구독리스트 합친거](https://user-images.githubusercontent.com/58322576/77454159-831c0980-6e3b-11ea-8f5c-7103f532c4d3.PNG)
 
  <h4> @메인 페이지 - 검색<h4>
  -검색 결과가 없을 시 결과 없음을 표시합니다.
