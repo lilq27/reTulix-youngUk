@@ -16,4 +16,4 @@
 
 ![프 검색](https://user-images.githubusercontent.com/58322576/77389379-600b3e80-6dd6-11ea-89b5-cb6355e39095.PNG)
 
-![드라마만](https://user-images.githubusercontent.com/58322576/77389385-626d9880-6dd6-11ea-84c7-81ec3a19cec8.PNG)
+![구독리스트](https://user-images.githubusercontent.com/58322576/77389452-9b0d7200-6dd6-11ea-8a79-31ebcb2d69ea.PNG)
