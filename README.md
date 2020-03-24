@@ -3,7 +3,8 @@
 ![리투릭스 ppt](https://user-images.githubusercontent.com/58322576/77391195-7798f600-6ddb-11ea-99e9-2d56f11ad538.PNG)
 
 <h2>1. reTulix</h2>
-![리투릭스 ppt 개요](https://user-images.githubusercontent.com/58322576/77391191-7667c900-6ddb-11ea-8635-491a1a48eeae.PNG)
+![프젝 개요](https://user-images.githubusercontent.com/58322576/77451707-60d4bc80-6e38-11ea-8662-4776bf1cbf54.PNG)
+
 
 <h2>2. 개발목적 및 프로젝트 개요</h2>
 
