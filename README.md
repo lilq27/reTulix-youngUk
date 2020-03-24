@@ -64,6 +64,7 @@ Java, Ajax, Spring, MyBatis
  <h4> @메인 페이지 - 검색<h4>
  -검색 결과가 없을 시 결과 없음을 표시합니다.
  
+ 
 ![검색 합친거](https://user-images.githubusercontent.com/58322576/77454276-a777e600-6e3b-11ea-9974-6e94f39f7872.png)
 
 
