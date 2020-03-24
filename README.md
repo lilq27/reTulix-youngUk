@@ -1,4 +1,9 @@
 # retulix
+![리투릭스 ppt](https://user-images.githubusercontent.com/58322576/77391195-7798f600-6ddb-11ea-99e9-2d56f11ad538.PNG)
+
+![리투릭스 ppt 개요](https://user-images.githubusercontent.com/58322576/77391191-7667c900-6ddb-11ea-8635-491a1a48eeae.PNG)
+
+![retulix_exerd](https://user-images.githubusercontent.com/58322576/77390001-0277f180-6dd8-11ea-89de-396bea54232a.PNG)
 
 ![회원가입](https://user-images.githubusercontent.com/58322576/77389278-191d4900-6dd6-11ea-8872-56e2aa8d2c7d.PNG)
 
