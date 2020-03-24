@@ -8,11 +8,11 @@
 
 ![메인 슬라이더](https://user-images.githubusercontent.com/58322576/77389349-4cf86e80-6dd6-11ea-9df0-cbde53aa8b97.PNG)
 
+![찜 히스토리 없는경우](https://user-images.githubusercontent.com/58322576/77389369-597cc700-6dd6-11ea-83dd-b907118a0bf9.PNG)
+
 ![드라마만](https://user-images.githubusercontent.com/58322576/77389357-51bd2280-6dd6-11ea-9255-93dfe9e22afd.PNG)
 
 ![반응형](https://user-images.githubusercontent.com/58322576/77389360-5386e600-6dd6-11ea-8189-9d694233b3f4.PNG)
-
-![찜 히스토리 없는경우](https://user-images.githubusercontent.com/58322576/77389369-597cc700-6dd6-11ea-83dd-b907118a0bf9.PNG)
 
 ![프 검색](https://user-images.githubusercontent.com/58322576/77389379-600b3e80-6dd6-11ea-89b5-cb6355e39095.PNG)
 
