@@ -2,12 +2,8 @@
 
 ![리투릭스 ppt](https://user-images.githubusercontent.com/58322576/77391195-7798f600-6ddb-11ea-99e9-2d56f11ad538.PNG)
 
-<h2>1. reTulix</h2>
 
-![프젝 개요](https://user-images.githubusercontent.com/58322576/77451707-60d4bc80-6e38-11ea-8662-4776bf1cbf54.PNG)
-
-
-<h2>2. 개발목적 및 프로젝트 개요</h2>
+<h2>1. 개발목적 및 프로젝트 개요</h2>
 
 이 프로젝트의 목표는 소비자와 공급자간의 드라마, 영화에 대한 양방향성 리뷰 플랫폼을 만드는 것입니다. 
 소비자와 공급자를 따로 구분하지 않고, 조회수에 대한 수익창출 구조를 통해 컨텐츠 생산을 유도하고, 다양한 리뷰를 바탕으로 드라마,
@@ -23,6 +19,8 @@ SqlDeveloper<br>
  <h4>2) 사용 언어 및 기타 기술</h4>
 jQuery, Servlet, jsp, JSTL, javascript<br>
 Java, Ajax, Spring, MyBatis
+
+<h2>2. 프로젝트 개인 부분 소개</h2>
 
 ![retulix_exerd](https://user-images.githubusercontent.com/58322576/77390001-0277f180-6dd8-11ea-89de-396bea54232a.PNG)
 
