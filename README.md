@@ -4,7 +4,7 @@
 
 ![리투릭스 ppt](https://user-images.githubusercontent.com/58322576/77391195-7798f600-6ddb-11ea-99e9-2d56f11ad538.PNG)
 
-<h2>합본</h2>
+<h2>전체 합본</h2>
 https://github.com/w086286/reTuLix
 
 <h2>1. 개발목적 및 프로젝트 개요</h2>
@@ -30,7 +30,7 @@ Java, Ajax, Spring, MyBatis
  
 ![retulix_exerd](https://user-images.githubusercontent.com/58322576/77390001-0277f180-6dd8-11ea-89de-396bea54232a.PNG)
 
-<h3> 2) 프로젝트 시연 개인 파트 </h3>
+<h3> 2) 프로젝트 시연 (개인 파트) </h3>
  
  <h4> @회원가입 페이지</h4> 
   -형식에 맞지 않거나 중복 값 입력 시 알림창이 뜨며 가입이 되지 않습니다.<br>
