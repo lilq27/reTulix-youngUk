@@ -2,6 +2,8 @@
 
 ![리투릭스 ppt](https://user-images.githubusercontent.com/58322576/77391195-7798f600-6ddb-11ea-99e9-2d56f11ad538.PNG)
 
+<h2>합본</h2>
+https://github.com/w086286/reTuLix
 
 <h2>1. 개발목적 및 프로젝트 개요</h2>
 
