@@ -30,7 +30,7 @@ Java, Ajax, Spring, MyBatis
  
 ![retulix_exerd](https://user-images.githubusercontent.com/58322576/77390001-0277f180-6dd8-11ea-89de-396bea54232a.PNG)
 
-<h3> 2) 프로젝트 시연
+<h3> 2) 프로젝트 시연 개인 파트 </h3>
  
  <h4> @회원가입 페이지</h4> 
   -형식에 맞지 않거나 중복 값 입력 시 알림창이 뜨며 가입이 되지 않습니다.<br>
