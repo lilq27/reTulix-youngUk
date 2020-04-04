@@ -1,4 +1,4 @@
-<h3> tis_pos teamProject </h3> https://github.com/HonestKim/tis
+ tis_pos teamProject:  https://github.com/HonestKim/tis
 
 # retulix
 
