@@ -1,3 +1,5 @@
+<h3> tis_pos teamProject </h3> https://github.com/HonestKim/tis
+
 # retulix
 
 ![리투릭스 ppt](https://user-images.githubusercontent.com/58322576/77391195-7798f600-6ddb-11ea-99e9-2d56f11ad538.PNG)
