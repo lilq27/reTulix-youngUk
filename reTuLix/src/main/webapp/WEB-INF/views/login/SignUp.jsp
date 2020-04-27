@@ -24,16 +24,16 @@
 <script>
 
 
-	var emailFlag = false;
-	var pwdFlag = false;
-	var ageFlag = false;
+	var emailFlag = true;
+	var pwdFlag = true;
+	var ageFlag = true;
 
 	var emailCheck = function() {
 
 		var useremail = $('#useremail').val();
 		
 				$.ajax({
-					url : 'checkemail?inputemail=' + useremail,
+					url : '${pageContext.request.contextPath}/checkemail?email=' + useremail,
 					type : 'get',
 					cache : false,
 					dataType : "json",
@@ -152,7 +152,7 @@
 
 			<div class="form-group">
 				<div>
-					<label for="inputemail" class="control-label">이메일 </label>
+					<label for="useremail" class="control-label">이메일 </label>
 				</div>
 				<div>
 					<input type="text" onchange="emailCheck()" class="form-control"
@@ -164,7 +164,7 @@
 
 			<div class="form-group">
 				<div>
-					<label for="inputPassword" class="control-label">비밀번호</label>
+					<label for="inputPwd" class="control-label">비밀번호</label>
 				</div>
 				<div>
 					<input type="password" class="form-control" name="pwd"
@@ -174,7 +174,7 @@
 			
 			<div class="form-group">
 				<div>
-					<label for="inputPassword2" class="control-label">비밀번호 확인</label>
+					<label for="inputPwd2" class="control-label">비밀번호 확인</label>
 				</div>
 				<div>
 					<input type="password" class="form-control" id="inputPwd2"
@@ -184,7 +184,7 @@
 
 			<div class="form-group">
 				<div>
-					<label for="inputname" class="control-label">이름</label>
+					<label for="name" class="control-label">이름</label>
 				</div>
 				<div>
 					<input type="text" class="form-control" name="name" id="name"
@@ -194,7 +194,7 @@
 
 			<div class="form-group">
 				<div>
-					<label for="inputname" class="control-label">나이</label>
+					<label for="age" class="control-label">나이</label>
 				</div>
 				<div>
 					<input type="text" class="form-control" name="age" id="age"

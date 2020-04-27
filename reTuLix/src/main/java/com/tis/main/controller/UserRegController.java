@@ -29,7 +29,7 @@ public class UserRegController {
     //이메일 중복 체크
 	@RequestMapping(value = "checkemail", method = RequestMethod.GET, produces = "application/json; charset=UTF-8")
 
-	public @ResponseBody Map<String, Integer> emailCheck(@RequestParam("inputemail") String email, Model m) {
+	public @ResponseBody Map<String, Integer> emailCheck(@RequestParam("email") String email, Model m) {
 		int userEmail = reg_service.userEmailCheck(email);
 		System.out.println("userEmail=" + userEmail);
 		System.out.println("email=" + email);
